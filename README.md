@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @BluuG
-- 👀 I’m interested in smart contract wiritng
+- 👀 I’m interested in smart contract wiritng (ERC-721 , ERC-20)
 - 📫 How to reach me scorte
