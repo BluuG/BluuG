@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BluuG
+- 👀 I’m interested in smart contract wiritng
+- 📫 How to reach me scorte
